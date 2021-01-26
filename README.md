@@ -4,7 +4,7 @@
 KoBART with Colab
 
 # Changes
-- PyTorch 버전 변경
+- PyTorch version 변경
 
 # Reference
 - [KoBART](https://github.com/SKT-AI/KoBART)
