@@ -3,6 +3,9 @@
 
 KoBART with Colab
 
+# INFO
+- 학습이 진행되나 tcmalloc이 발생합니다. 로컬환경에서 실행하시는 것을 추천합니다.
+
 # Changes
 - PyTorch version 변경
 
